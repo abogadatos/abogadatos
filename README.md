@@ -1,8 +1,30 @@
-<h1>👋 Hi, I’m @nechodev</h1>
-- 
-- 👀 I’m want to become a software developer!
-- 🌱 I’m currently learning JavaScript.
-- 📫 You can find out more about me @abogadatos on twitter!
+<h1 align="center"> Hi! I'm @nechodev </h1>
+<h3 align="center">Lawyer pivoting to Software Engineering</h3>
+
+### 💻 What I'm about these weeks ->
+
+- On Javascript is my attention
+- Using VS Code for almost everything
+- Git is what I use to work with on a daily basis
+
+### ⚡ Learning now ->
+
+- Javascript Advanced topics
+- Linux and Networking...
+
+Human languages ->
+
+- Spanish: Native
+- English: B2
+- Italian: B1
+- Wanting to learn: Mandarin Chinese
+
+### A bit about me ->
+
+- I was born in 1995, living in Colombia atm.
+- I like to learn about new technologies to do a better for me and others.
+- I'm a fan of mixing virtual solutions for real life problems or opportunities.
+- Focused on learning everyday to become as a Frontend Tech Lead in Colombia :colombia:.
 
 <!---
 nechoarias/nechoarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
