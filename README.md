@@ -12,7 +12,7 @@
 - Javascript Advanced topics
 - Linux and Networking...
 
-Human languages ->
+### :speech_balloon: Human languages ->
 
 - Spanish: Native
 - English: B2
