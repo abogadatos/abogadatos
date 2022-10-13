@@ -5,7 +5,7 @@
 
 - On Javascript is my attention
 - Using VS Code for almost everything
-- Git is what I use to work with on a daily basis
+- Git is the way.
 
 ### ⚡ Learning now ->
 
