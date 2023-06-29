@@ -17,7 +17,7 @@
 - Spanish: Native
 - English: B2
 - Italian: B1
-- Wanting to learn: Mandarin Chinese
+- Learning: Mandarin Chinese
 
 ### A bit about me ->
 
