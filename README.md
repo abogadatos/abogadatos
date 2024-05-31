@@ -21,10 +21,9 @@
 
 ### A bit about me ->
 
-- I was born in 1995, living in Colombia atm.
 - I like to learn about new technologies to do a better for me and others.
 - I'm a fan of mixing virtual solutions for real life problems or opportunities.
-- Focused on learning everyday to become as a Frontend Tech Lead in Colombia :colombia:.
+- Focused on learning everyday to become a Tech Lead.
 
 <!---
 nechoarias/nechoarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
