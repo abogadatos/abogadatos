@@ -1,16 +1,16 @@
 <h1 align="center"> Hi! I'm @nechodev </h1>
-<h3 align="center">Lawyer pivoting to Software Engineering</h3>
+<h3 align="center">Lawyer Pivoting to Software Engineering</h3>
 
-### 💻 What I'm about these weeks ->
+### 💻 What I'm focusing on these weeks: ->
 
-- On Javascript is my attention
+- Concentrating on JavaScriptn
 - Using VS Code for almost everything
 - Git is the way.
 
-### ⚡ Learning now ->
+### ⚡ Currently Learning  ->
 
-- Javascript Advanced topics
-- Linux and Networking...
+- Advanced JavaScript topics
+- Linux and Networking
 
 ### :speech_balloon: Human languages ->
 
@@ -21,9 +21,7 @@
 
 ### A bit about me ->
 
-- I like to learn about new technologies to do a better for me and others.
-- I'm a fan of mixing virtual solutions for real life problems or opportunities.
-- Focused on learning everyday to become a Tech Lead.
+I enjoy learning about new technologies to improve myself and help others. I'm passionate about integrating virtual solutions with real-life problems or opportunities. I'm dedicated to learning every day to become a Tech Lead.
 
 <!---
 nechoarias/nechoarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
