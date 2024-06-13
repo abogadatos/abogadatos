@@ -31,18 +31,22 @@ I enjoy learning about new technologies to improve myself and help others. I'm p
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" title="Express" alt="express" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40" />    
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" title="tailwindcss" alt="express" width="40" height="40" />
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" title="HTML5" alt="Linux" width="40" height="40"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" title="HTML5" alt="Neovim" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="38" height="38" />
 </div>
 <br>
+<center>
+<img src="https://komarev.com/ghpvc/?username=nechodev" title="Figma" alt="Figma" width="80" height="20" />
+<!-- ![](https://komarev.com/ghpvc/?username=nechodev) -->
+</center>
 
-![](https://komarev.com/ghpvc/?username=nechodev)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nechodev&layout=compact) -->
 
 <!---
 nechoarias/nechoarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
