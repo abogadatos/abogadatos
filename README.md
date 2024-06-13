@@ -7,7 +7,7 @@
 - Using VS Code for almost everything
 - Git is the way.
 
-### ⚡ Currently Learning  ->
+### ⚡ Currently Learning ->
 
 - Advanced JavaScript topics
 - Linux and Networking
@@ -22,6 +22,8 @@
 ### A bit about me ->
 
 I enjoy learning about new technologies to improve myself and help others. I'm passionate about integrating virtual solutions with real-life problems or opportunities. I'm dedicated to learning every day to become a Tech Lead.
+
+![](https://komarev.com/ghpvc/?username=nechodev)
 
 <!---
 nechoarias/nechoarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
