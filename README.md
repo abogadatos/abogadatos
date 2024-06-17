@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFFF3&background=1F2A35&center=true&vCenter=true&multiline=true&random=false&width=435&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+Nelson+Enrique.;+%40nechodev" alt="Hello, I'm Nelson Enrique" />
 </div>
-<hr>
+<hr> -->
 <h3 align="center">Lawyer Pivoting to Software Engineering</h3>
 
 ### 💻 About me: ->
