@@ -4,11 +4,17 @@
 <hr>
 <h3 align="center">Lawyer Pivoting to Software Engineering</h3>
 
-### 💻 What I'm focusing on right now: ->
+### 💻 About me: ->
 
-- Concentrating on JavaScript
-- Using Visual Studio Code for almost everything
-- Git is the way.
+<p aligh="left">
+  <p>Hey there, welcome!</br>
+  I'm Nelson, Software Engineering Student from <svg width="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 4"><path fill="#CE1126" d="M0 0h6v4H0z"/><path fill="#003893" d="M0 0h6v3H0z"/><path fill="#FCD116" d="M0 0h6v2H0z"/></svg> <b>Colombia</b>.</p>
+  	
+  💡 &nbsp;I like to explore new trends and learn new technologies.\
+  🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><u>JavaScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
+  ✍🏼 &nbsp;I've recently started writing some articles on <!--<a href="#" target="_blank"></a> --> <u>my brand new blog</u>.\
+  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+</p>
 
 ### ⚡ Currently Learning ->
 
