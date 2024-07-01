@@ -18,7 +18,7 @@
 
 ### ⚡ Currently Learning ->
 
-- Advanced JavaScript topics: Typescript, React, Express.
+- Advanced topics: Typescript, React, Express.
 - Linux
 
 ### 💬 Human languages ->
