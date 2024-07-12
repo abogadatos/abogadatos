@@ -10,8 +10,7 @@
 
 ### 💻 About me: ->
 <p aligh="left">
-  <p>Hey there, welcome!</br>
-  I'm Nelson, Software Engineering Student from <svg width="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 4"><path fill="#CE1126" d="M0 0h6v4H0z"/><path fill="#003893" d="M0 0h6v3H0z"/><path fill="#FCD116" d="M0 0h6v2H0z"/></svg> <b>Colombia</b>.</p>
+  <p>Hey there, welcome! I'm Nelson, a Software Engineering Student from <b>Colombia</b>.</p> </br>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><u>JavaScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
