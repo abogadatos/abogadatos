@@ -4,6 +4,10 @@
 <hr> -->
 <h3 align="center">Lawyer Pivoting to Software Engineering</h3>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nechodev" title="Figma" alt="Figma" width="95" height="20" />
+</div>
+
 ### 💻 About me: ->
 <p aligh="left">
   <p>Hey there, welcome!</br>
@@ -11,7 +15,6 @@
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><u>JavaScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
-  ✍🏼 &nbsp;I've recently started writing some articles on <!--<a href="#" target="_blank"></a> --> <u>my brand new blog</u>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 
@@ -22,7 +25,6 @@
 ### 💬 Human languages ->
 - Spanish: Native
 - English: B2
-- Italian: B1
 - Learning: Mandarin Chinese
 
 ### A bit about me ->
@@ -43,17 +45,14 @@ I enjoy learning about new technologies to improve myself and help others. I'm p
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30" />
 </div>
 <br>
-<center>
-<img src="https://komarev.com/ghpvc/?username=nechodev" title="Figma" alt="Figma" width="80" height="20" />
-<!-- ![](https://komarev.com/ghpvc/?username=nechodev) -->
-</center>
+
+
 <div align="center">
   <a href="https://www.instagram.com/nechodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/abogadatos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   <a href="mailto:nechowork94@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a> -->
   <a href="https://twitter.com/abogadatos"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nechodev&layout=compact) -->
 
 <!---
 nechoarias/nechoarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
