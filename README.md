@@ -12,11 +12,11 @@
 <p aligh="left">
   <p>Hey there, welcome! I'm Nelson, a Software Engineering Student from <b>Colombia</b>.</p> </br>
   	
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
+  
   🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><u>JavaScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
-
+<!-- 💡 &nbsp;I like to explore new trends and learn new technologies.\ -->
 ### ⚡ Currently Learning ->
 - Advanced topics: Typescript, React, Express.
 - Linux
