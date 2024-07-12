@@ -5,7 +5,6 @@
 <h3 align="center">Lawyer Pivoting to Software Engineering</h3>
 
 ### 💻 About me: ->
-
 <p aligh="left">
   <p>Hey there, welcome!</br>
   I'm Nelson, Software Engineering Student from <svg width="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 4"><path fill="#CE1126" d="M0 0h6v4H0z"/><path fill="#003893" d="M0 0h6v3H0z"/><path fill="#FCD116" d="M0 0h6v2H0z"/></svg> <b>Colombia</b>.</p>
@@ -17,19 +16,16 @@
 </p>
 
 ### ⚡ Currently Learning ->
-
 - Advanced topics: Typescript, React, Express.
 - Linux
 
 ### 💬 Human languages ->
-
 - Spanish: Native
 - English: B2
 - Italian: B1
 - Learning: Mandarin Chinese
 
 ### A bit about me ->
-
 I enjoy learning about new technologies to improve myself and help others. I'm passionate about integrating virtual solutions with real-life problems or opportunities. I'm dedicated to learning every day to become a FullStack Developer.
 
 <div align="center">
