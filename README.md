@@ -25,11 +25,31 @@
 - English: B2
 - Learning: Mandarin Chinese
 
+<!--- Tools i use V1--->
+<div align="center">
+  <h3>Tools I Use</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" title="Express" alt="express" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" title="tailwindcss" alt="tailwindcss" width="30" height="30"/>    
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="30" height="30"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" title="Neovim" alt="Neovim" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30" />
+</div>
+
+
+<!--- Tools i use V2--->
+<!---
 <div align="center">
   <h3>Tools I Use</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,git,react,figma,npm,mongodb,postgres,linux,neovim,"  height="70" />
-</div>
-<!--- kali,bash, vscode,vercel,notion,tailwind--->
+kali,bash, vscode,vercel,notion,tailwind
+</div> --->
+
 <div align="center">
     <h3>Contact me</h3>
   <a href="https://www.instagram.com/nechodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
