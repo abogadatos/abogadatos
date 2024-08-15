@@ -35,7 +35,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" title="tailwindcss" alt="tailwindcss" width="30" height="30"/>    
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="30" height="30"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" title="Neovim" alt="Neovim" width="30" height="30"/>
+<!--     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" title="Neovim" alt="Neovim" width="30" height="30"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30" />
