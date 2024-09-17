@@ -10,7 +10,7 @@
 
 ### 💻 About me: ->
 <p aligh="left">
-  <p>Hey there, welcome! I'm Nelson, a Software Engineering Student from <b>Colombia</b> but currently living in </p>México</br>  
+  <p>Hey there, welcome! I'm Nelson, a Software Engineering Student from <b>Colombia</b>but currently living in <b>México</b> </p></br>  
   🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nestjs.com/" target="_blank"><u>NestJS</u></a>.</br> 
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion. <br>
   📎 &nbsp;I enjoy learning about new technologies to improve myself and help others. I'm passionate about integrating virtual solutions with real-life problems or opportunities. I'm dedicated to learning every day to become a better FullStack Developer.
