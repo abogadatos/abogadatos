@@ -25,40 +25,31 @@
 - English: B2
 - Learning: Mandarin Chinese
 
-<!--- Tools i use V1--->
-<div align="center">
-<!--   <h3>Tools I Use</h3> -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" title="Express" alt="express" width="30" height="30"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/css.svg" title="Express" alt="express" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" title="tailwindcss" alt="tailwindcss" width="30" height="30"/>    
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="30" height="30"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" title="Neovim" alt="Neovim" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30" /> -->
-<!-- </div> -->
-
-
-<!--- Tools i use V2--->
-
+<!--- Tools i use V0.1-->
 <div align="center">
   <h3>Tools I Use</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,figma,tailwind,mongodb,postgres,git,linux,vscode,"  height="70" />
-<!--   npm -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,figma,tailwind,mongodb,postgres,git,vscode,linux,"  height="70" />
 
 </div> 
 
 <div align="center">
     <h3>Contact me</h3>
   <a href="https://www.linkedin.com/in/abogadatos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:nechowork@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/abogadatos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/abogadatos"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 <!--   <a href="mailto:nechowork@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a> -->
-  <a href="https://www.instagram.com/nechodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/abogadatos"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
+<!---
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abogadatos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://instagram.com/abogadatos)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
+--->
 
 <!---
 nechoarias/nechoarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
