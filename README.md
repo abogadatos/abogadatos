@@ -1,7 +1,7 @@
 <h3 align="center">Lawyer Pivoting to Software Engineering</h3>
-<!-- <div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=nechodev" title="Figma" alt="Profile view counter" width="95" height="20" />
-</div> -->
+</div>
 
 #### 🌟 About me: ->
 <p aligh="left">
