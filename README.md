@@ -10,10 +10,11 @@
 
 ### 💻 About me: ->
 <p aligh="left">
-  <p>Hey there, welcome! I'm Nelson, a Software Engineering Student from <b>Colombia</b> but I'm currently living in <b>México</b></p>
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nestjs.com/" target="_blank"><u>NestJS</u></a>.</br> 
-  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion. <br>
-  📎 &nbsp;I enjoy learning about new technologies to improve myself and help others. I'm passionate about integrating virtual solutions with real-life problems or opportunities. I'm dedicated to learning every day to become a better FullStack Developer.
+  <p>I'm a <b>Software Engineering Student</b> from Colombia, currently living in México. Passionate about building efficient, scalable, and user-friendly solutions, I enjoy integrating virtual innovations with real-world opportunities.</p>
+  🔧 &nbsp;I specialize in Full-Stack Development with hands-on experience in JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM, and Mongoose.</br> 
+  📜 &nbsp; Currently enhancing my expertise in TypeScript, NestJS, and React, while diving into Linux for advanced system knowledge. <br>
+  💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
+  🌱 &nbsp;Lifelong learner, always looking to improve and help others grow.
 </p>
 
 ### ⚡ Currently Learning ->
