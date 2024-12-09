@@ -21,9 +21,10 @@
 - Linux
 
 ### 💬 Human languages ->
-- Spanish: Native
-- English: B2
-- Learning: Mandarin Chinese
+- Spanish: C2 (Native)
+- English: C1
+- Italian: B1
+- Mandarin: A1
 
 <!--- Tools i use V0.1-->
 <div align="center">
