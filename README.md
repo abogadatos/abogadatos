@@ -7,20 +7,24 @@
   <img src="https://komarev.com/ghpvc/?username=nechodev" title="Figma" alt="Profile view counter" width="95" height="20" />
 </div> -->
 
-### 💻 About me: ->
+#### 💻 About me: ->
 <p aligh="left">
-  <p>I'm a <b>Software Engineering Student</b> from Colombia, currently living in México. Passionate about building efficient, scalable, and user-friendly solutions, I enjoy integrating virtual innovations with real-world opportunities.</p>
+<!--   <p>I'm a <b>Software Engineering Student</b> from Colombia, currently living in México. Passionate about building efficient, scalable, and user-friendly solutions, I enjoy integrating virtual innovations with real-world opportunities.</p> -->
   🔧 &nbsp;I specialize in Full-Stack Development with hands-on experience in JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM, and Mongoose.</br> 
   📜 &nbsp; Currently enhancing my expertise in TypeScript, NestJS, and React, while diving into Linux for advanced system knowledge. <br>
   💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
   🌱 &nbsp;Lifelong learner, always looking to improve and help others grow.
 </p>
 
-### ⚡ Currently Learning ->
-- Advanced topics: Typescript, NestJs, React.
-- Linux
+####⚡ Technologies I Work With
+Frontend: React, Next.js
+Backend: Node.js, Express, NestJS
+Databases: PostgreSQL, MongoDB
+Tools & Frameworks: TypeORM, Mongoose, Docker
+Version Control: Git (using tools like Lazygit)
+Other Skills: API Design (RESTful), Authentication (OAuth, JWT), and Collaborative Development.
 
-### 💬 Human languages ->
+#### 💬 Human languages ->
 - Spanish: C2 (Native)
 - English: C1
 - Italian: B1
