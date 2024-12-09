@@ -11,12 +11,12 @@
   💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
   🌱 &nbsp;Lifelong learner, always looking to improve and help others grow.
 </p>
-### ⚡ Technologies I Work With ->
+<!-- ### ⚡ Technologies I Work With ->
 - Frontend: React, Next.js
 - Backend: Node.js, Express, NestJS
 - Databases: PostgreSQL & TypeORM, MongoDB & Mongoose
 - Tools & Frameworks: Git, Github, VSCode, Docker, 
-- 
+-  -->
 
 ### 💬 Human languages ->
 - Spanish: C2 (Native)
