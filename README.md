@@ -5,7 +5,7 @@
 
 ### 🌟 About me: ->
 <p aligh="left">
-  💻 &nbsp;I'm a **Full Stack Developer**, a <b>Software Engineering Student</b> and **Lawyer.** Passionate about building efficient, scalable, and user-friendly solutions, I enjoy integrating virtual innovations with real-world opportunities.</br>
+  💻 &nbsp;I'm a <b>Full Stack Developer</b>b>, a <b>Software Engineering Student</b> and <b>Lawyer</b>. Passionate about building efficient, scalable, and user-friendly solutions, I enjoy integrating virtual innovations with real-world opportunities.</br>
   🔧 &nbsp; I specialize in Full-Stack Development with hands-on experience in JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM, and Mongoose.</br> 
   📜 &nbsp; Currently enhancing my expertise in TypeScript, NestJS, and React, while diving into Linux for advanced system knowledge. <br>
   💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
