@@ -11,7 +11,7 @@
   💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
   🌱 &nbsp; Lifelong learner, always looking to improve and help others grow.
 </p>
-<!---->
+
 ## ⚡ Technologies I Work With  
 - **Frontend:** HTML, CSS, React, Next.js.  
 - **Backend:** Node.js, Express, NestJS.  
