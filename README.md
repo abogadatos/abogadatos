@@ -5,20 +5,21 @@
 
 ### 🌟 About me: ->
 <p aligh="left">
-  💻 &nbsp;I'm a <b>Full Stack Developer</b>, a <b>Software Engineering Student</b> and <b>Lawyer</b>. Passionate about building efficient, scalable, and user-friendly solutions, I enjoy integrating virtual innovations with real-world opportunities.</br>
-  🔧 &nbsp; I specialize in Full-Stack Development with hands-on experience in JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM, and Mongoose.</br> 
+  💻 &nbsp;I'm a <b>Full Stack Developer</b>, a <b>Software Engineering Student</b> and <b>Lawyer</b>. I build efficient, scalable, and user-friendly solutions. I enjoy integrating virtual innovations with real-world opportunities.</br>
+  🔧 &nbsp; I specialize in Full-Stack Development with hands-on experience in JavaScript, TypeScript, React, Next.js Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM, and Mongoose.</br> 
   📜 &nbsp; Currently enhancing my expertise in TypeScript, NestJS, and React, while diving into Linux for advanced system knowledge. <br>
   💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
   🌱 &nbsp; Lifelong learner, always looking to improve and help others grow.
 </p>
-<!-- ## ⚡ Technologies I Work With  
+<!---->
+## ⚡ Technologies I Work With  
 - **Frontend:** HTML, CSS, React, Next.js.  
 - **Backend:** Node.js, Express, NestJS.  
 - **Databases:** PostgreSQL & TypeORM, MongoDB & Mongoose.
-- **Tools:** Docker, VSCode, ThunderClient, Post 
+- **Tools:** Docker, VSCode, ThunderClient, Postman.
 - **Version Control:** Git CLI, GitLens, Lazygit.
-- **Other Skills:** API Design (RESTful), Authentication (OAuth, JWT), and Collaborative Development.  
- -->
+- **Skills:** API Design (RESTful, GraphQL), Authentication (OAuth, JWT), and Collaborative Development (SCRUM).  
+ 
 
 ## 💬 Human languages ->
 - Spanish: C2 (Native)
@@ -26,11 +27,12 @@
 - Italian: B1
 - Mandarin: A1
 
-<!--- Tools i use V0.1-->
+<!--- Tools i use V0.1
 <div align="center">
   <h3>Tools I Use</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,figma,tailwind,mongodb,postgres,git,vscode,linux,"  height="70" />
 </div> 
+-->
 
 <div align="center">
     <h3>Contact me</h3>
