@@ -22,10 +22,7 @@
 - **Skills:** API Design (RESTful, GraphQL), Authentication (OAuth, JWT), and Collaborative Development (SCRUM).  -->
 
 ## 💬 Human languages ->
-- Spanish: C2 (Native)
-- English: C1
-- Italian: B1
-- Mandarin: A1
+- 🇪🇸: C2 (Native), 🇺🇸: C1, 🇮🇹: B1, 🇨🇳: A1
 
 <!--- Tools i use V0.1--> 
 <div align="center">
