@@ -9,18 +9,17 @@
   🔧 &nbsp; I specialize in Full-Stack Development with hands-on experience in JavaScript, TypeScript, React, Next.js Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM, and Mongoose.</br> 
   📜 &nbsp; Currently enhancing my expertise in TypeScript, NestJS, and React, while diving into Linux for advanced system knowledge. <br>
   💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
-  🌱 &nbsp; Lifelong learner, always looking to improve and help others grow.
-  🚩 &nbsp; My portfolio & blog here: <a href="https://abogadatos.me">@abogadatos</a>
+  🌱 &nbsp; Lifelong learner, always looking to improve and help others grow. <br>
+  🚩 &nbsp; My portfolio & blog here: <a href="https://abogadatos.me">@abogadatos</a>  <br>
 </p>
-
+<!---
 ## ⚡ Technologies I Work With  
 - **Frontend:** HTML, CSS, React, Next.js.  
 - **Backend:** Node.js, Express, NestJS.  
 - **Databases:** PostgreSQL & TypeORM, MongoDB & Mongoose.
-- **Tools:** Docker, VSCode, ThunderClient, Postman.
+- **Tools:** Git, VSCode, Docker, ThunderClient, Postman.
 - **Version Control:** Git CLI, GitLens, Lazygit.
-- **Skills:** API Design (RESTful, GraphQL), Authentication (OAuth, JWT), and Collaborative Development (SCRUM).  
- 
+- **Skills:** API Design (RESTful, GraphQL), Authentication (OAuth, JWT), and Collaborative Development (SCRUM).  -->
 
 ## 💬 Human languages ->
 - Spanish: C2 (Native)
@@ -28,12 +27,12 @@
 - Italian: B1
 - Mandarin: A1
 
-<!--- Tools i use V0.1
+<!--- Tools i use V0.1--> 
 <div align="center">
   <h3>Tools I Use</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,figma,tailwind,mongodb,postgres,git,vscode,linux,"  height="70" />
 </div> 
--->
+
 
 <div align="center">
     <h3>Contact me</h3>
