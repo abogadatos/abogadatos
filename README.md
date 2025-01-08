@@ -10,6 +10,7 @@
   📜 &nbsp; Currently enhancing my expertise in TypeScript, NestJS, and React, while diving into Linux for advanced system knowledge. <br>
   💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
   🌱 &nbsp; Lifelong learner, always looking to improve and help others grow.
+  🚩 &nbsp; My portfolio & blog here: <a href="https://abogadatos.me">@abogadatos</a>
 </p>
 
 ## ⚡ Technologies I Work With  
