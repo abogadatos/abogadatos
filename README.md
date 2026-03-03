@@ -1,35 +1,65 @@
-<h3 align="center">Lawyer Pivoting to Software Engineering</h3>
+<h3 align="center">CEO & Founder @ Hackernoticia | Lawyer → Software Engineer</h3>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nechodev" title="Figma" alt="Profile view counter" width="95" height="20" />
+  <img src="https://komarev.com/ghpvc/?username=nechodev" alt="Profile view counter" width="95" height="20" />
 </div>
 
-### 🌟 About me: ->
-<p aligh="left">
-  💻 &nbsp;I'm a <b>Full Stack Developer</b>, a <b>Software Engineering Student</b> and <b>Lawyer</b>. I build efficient, scalable, and user-friendly solutions. I enjoy integrating virtual innovations with real-world opportunities.</br>
-  🔧 &nbsp; I specialize in Full-Stack Development with hands-on experience in JavaScript, TypeScript, React, Next.js Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM, and Mongoose.</br> 
-  📜 &nbsp; Currently enhancing my expertise in TypeScript, NestJS, and React, while diving into Linux for advanced system knowledge. <br>
-  💬 &nbsp; Open to discussions, consulting opportunities, and collaborative projects! <br>
-  🌱 &nbsp; Lifelong learner, always looking to improve and help others grow. <br>
-  🚩 &nbsp; My portfolio & blog here: <a href="https://abogadatos.me">@abogadatos</a>  <br>
+---
+
+## 🚀 About Me
+
+<p align="left">
+  💼 &nbsp;I'm the <b>CEO & Founder of Hackernoticia.com</b>, a digital cybersecurity news platform focused on technology, hacking, data protection and cyber intelligence. <br>
+  💻 &nbsp;Full Stack Developer and Software Engineering student with a legal background. I design and build scalable digital products combining law, cybersecurity, and software development. <br>
+  ⚖️ &nbsp;Lawyer pivoting into tech — leveraging legal reasoning, risk analysis and structured thinking to build secure and efficient systems. <br>
+  🔧 &nbsp;Specialized in JavaScript & TypeScript ecosystems with hands-on experience in React, Next.js, Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM and Mongoose. <br>
+  🧠 &nbsp;Currently deepening expertise in TypeScript architecture, backend scalability, Linux systems, and cybersecurity fundamentals. <br>
+  🌍 &nbsp;Building tech media, digital products and security-focused solutions. <br>
 </p>
-<!---
-## ⚡ Technologies I Work With  
-- **Frontend:** HTML, CSS, React, Next.js.  
-- **Backend:** Node.js, Express, NestJS.  
-- **Databases:** PostgreSQL & TypeORM, MongoDB & Mongoose.
-- **Tools:** Git, VSCode, Docker, ThunderClient, Postman.
-- **Version Control:** Git CLI, GitLens, Lazygit.
-- **Skills:** API Design (RESTful, GraphQL), Authentication (OAuth, JWT), and Collaborative Development (SCRUM).  -->
 
-## 💬 Human languages ->
-- Spanish 🇪🇸: C2 (Native), English 🇺🇸: C1, Italian 🇮🇹: B1, Mandarin 🇨🇳: A1
+---
 
-<!--- Tools i use V0.1--> 
+## 📰 Founder of Hackernoticia
+
+<p align="left">
+  🔐 &nbsp;Hackernoticia.com is a cybersecurity-focused digital media project covering:
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Cyber attacks & data breaches <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• AI & emerging technologies <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Privacy & digital rights <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Cybercrime analysis <br>
+  <br>
+  🎯 &nbsp;Mission: Make cybersecurity understandable, relevant and strategic for Spanish-speaking audiences.
+  <br>
+  🌐 &nbsp;Visit: <a href="https://hackernoticia.com">hackernoticia.com</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** HTML, CSS, React, Next.js, Tailwind
+- **Backend:** Node.js, Express, NestJS
+- **Databases:** PostgreSQL (TypeORM), MongoDB (Mongoose)
+- **DevOps & Tools:** Git, Docker, Linux, VSCode, Postman
+- **Architecture:** REST APIs, JWT Auth, OAuth, Modular & Scalable Systems
+
+---
+
+## 🌎 Human Languages
+
+- Spanish 🇪🇸: C2 (Native)
+- English 🇺🇸: C1
+- Italian 🇮🇹: B1
+- Mandarin 🇨🇳: A1
+
+<!--- Tools i use V0.1-->
 <div align="center">
   <h3>Tools I Use</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,figma,tailwind,mongodb,postgres,git,vscode,linux,"  height="70" />
-</div> 
+</div>
 
+## 📬 Contact
 
 <div align="center">
     <h3>Contact me</h3>
